@@ -1,2 +1,3 @@
-# smart_lib-
+# smartlib
+
 Library Management system automation 
